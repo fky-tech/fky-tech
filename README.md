@@ -16,7 +16,7 @@
 
 ###
 <!-- <p align="left">🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p> -->
-<p align="left">🔭 currently working on my own webpage <br>👨🏼‍🎓 studying computer science at ST MARY's University</p>
+<p align="left">👨🏼‍🎓 studying computer science at ST MARY's University</p>
 
 ###
 <h1>💻 Tech Stack:</h1>
