@@ -41,11 +41,11 @@
 <h1 align="left">🔥   My Stats :</h1>
 
 <div>
-  <img src="https://github.com/anuraghazra/github-readme-stats/api?username=fky-tech&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-five-taupe-92.vercel.app/api?username=fky-tech&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <br/>
   <img src="https://nirzak-streak-stats.herokuapp.com/?user=fky-tech&theme=dark&count_private=true" alt="GitHub Streak Stats">
   <br/>
-  <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=fky-tech&theme=dark&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats-five-taupe-92.vercel.app/api/top-langs/?username=fky-tech&theme=dark&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 ###
