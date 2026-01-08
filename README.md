@@ -43,7 +43,7 @@
 <div>
   <img src="https://github-readme-stats-five-taupe-92.vercel.app/api?username=fky-tech&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <br/>
-  <img src="https://your-vercel-username.vercel.app/?user=fky-tech&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats-five-taupe-92.vercel.app/?user=fky-tech&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats">
   <br/>
   <img src="https://github-readme-stats-five-taupe-92.vercel.app/api/top-langs/?username=fky-tech&theme=dark&count_private=true&layout=compact" alt="Top Languages">
 </div>
